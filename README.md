@@ -5,3 +5,6 @@
 Using what we learned in Module 15 about regression analysis, the two variables/coefficients that provide a non-random amount of variance to the mpg in the dataset are vehicle length and ground clearance. These two variables had p-values less than .05, as shown below.
 ![image](https://user-images.githubusercontent.com/88783255/144765981-1294d109-347d-406c-9541-e045c6a9f20b.png)
 ### Is the slope of the linear model considered to be zero? Why or why not?
+The slope of this model is not considered to be zero because there's correlation between the MPG and the variables/coefficients in the dataset. The p-value of the model is less than .05, as shown below.
+![image](https://user-images.githubusercontent.com/88783255/144766237-6e8c9239-f10d-42fb-b9fb-c4966c342ea5.png)
+
