@@ -15,6 +15,7 @@ The R-squared of this model is 71.5%, so this model doesn't effectively predict 
 Using the data from the Suspension_Coil CSV file and what we learned about summary statistics in Module 15, I created the two tables below in R Script:
 
 ![image](https://user-images.githubusercontent.com/88783255/144766903-cddd6d77-7570-48f3-9702-4a80a1214a35.png)
+
 ![image](https://user-images.githubusercontent.com/88783255/144766918-e612b319-dd18-43e9-ae22-cf6ad6263ad0.png)
 
 This exercise allows the audience to see a total summary as well as a summary of each manufacturing lot.
