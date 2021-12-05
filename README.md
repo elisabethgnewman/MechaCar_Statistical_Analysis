@@ -35,3 +35,5 @@ Below are the subset t-tests performed on each manufacturing lot:
 ![image](https://user-images.githubusercontent.com/88783255/144767771-12bb47c8-93f7-4efa-ae48-e4dcbe88234c.png)
 
 
+## Study Design: MechaCar vs Competition
+If I were to continue the study on how the MechaCar performs compared the competition, I would be interested in looking into both city and highway fuel efficiency. Given that now consumers are buying more electric vehicles, fuel efficiency can be a driving factor of purchase decisions. My null hypothesis would be that the MechaCar's city and highway fuel efficiency are not much different than other cars sold by the dealership. When performing this test, I would group the data by vehicle type (SUV, sedan, etc) and also perform on the analysis on Gas vs. Electric vehicles. I would use summary statistics to compare this data and perform T-tests.
