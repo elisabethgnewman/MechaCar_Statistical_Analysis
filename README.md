@@ -26,6 +26,7 @@ As shown in the tables above, Lots 1 and 2 meet the design specification of the 
 
 ## T-Tests on Suspension Coils
 The following image shows the one-sample t-test:
+
 ![image](https://user-images.githubusercontent.com/88783255/144767652-31783a07-7626-49fe-b5b3-df1ea8f7b64f.png)
 
 Below are the subset t-tests performed on each manufacturing lot:
